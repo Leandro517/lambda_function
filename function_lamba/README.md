@@ -21,18 +21,22 @@ A função recebe um nome (opcional) como entrada. Com base no horário atual da
 {
   "nome": "Pedro"
 }
-
+```
 ### 🔹 Exemplo 2 – Entrada sem nome
+```json
 {
   "nome": ""
 }
-
+```
 ### 🔹 Exemplo 1 – Saída com nome
+```json
 {
     "mensagem": "Boa noite, Pedro! Que tal ouvir: 'Jeremy - Pearl Jam'?"
 }
-
+```
 ### 🔹 Exemplo 2 – Saída sem nome
+```json
 {
     "mensagem": "Boa noite, ! Que tal ouvir: 'Fell on Black Days - Soundgarden'?"
 }
+```
